@@ -1,0 +1,2843 @@
+[33mcommit e3e7947a2b1ea1580f786ab62cf084c306f88ad0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mflatris/js/change_one[m[33m)[m
+Author: bodylanguage <jyri.svanborg@gmail.com>
+Date:   Thu Mar 14 15:53:00 2024 +0200
+
+    change to readme file
+
+[33mcommit c01772a90af5149124aa2ba6099a6e658d344137[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31mazure/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Dec 13 00:52:53 2020 +0200
+
+    Bump ini from 1.3.5 to 1.3.7 (#132)
+    
+    Bumps [ini](https://github.com/isaacs/ini) from 1.3.5 to 1.3.7.
+    - [Release notes](https://github.com/isaacs/ini/releases)
+    - [Commits](https://github.com/isaacs/ini/compare/v1.3.5...v1.3.7)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit 492dcdd8b56234d83fbc5ce1c547033865e9d94b[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Jun 9 02:43:32 2020 +0300
+
+    Dockerize (#104)
+
+[33mcommit 7bb38173b2993a1cda184a7c8b9d7ee038b6bda8[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri May 29 03:52:30 2020 +0300
+
+    Remove Puppeteer dep (#102)
+
+[33mcommit 56c8e0f1e13e0cc3bc3ce0208cb94490be690811[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri May 29 03:45:17 2020 +0300
+
+    Upgrade Babel (#101)
+
+[33mcommit 2209ce5fa7f02f054869c913425ec8ca77c99f96[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri May 29 02:49:47 2020 +0300
+
+    Prettify (#100)
+
+[33mcommit 826cc02e368094c8b03760245c7719f5216e68c4[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu May 28 03:11:21 2020 +0300
+
+    Fix CI badge (#99)
+    
+    * Update test.yml
+    
+    * Update README.md
+    
+    * Rename workflow
+
+[33mcommit d3fbcec614ae9ff5ffc682dc3b906a3db32854a5[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu May 28 03:03:12 2020 +0300
+
+    Rename GitHub Actions workflow and add CI badge
+
+[33mcommit a2545cebed9fe0cdbd1f6ba7f71652e92988209d[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu May 28 03:00:14 2020 +0300
+
+    Configure GitHub Actions (#98)
+
+[33mcommit 62d42270fce80a359f24a3a316d3fa3ae7b2df08[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu May 28 00:42:37 2020 +0300
+
+    Upgrade deps (#97)
+
+[33mcommit 7cb9cf84e1d6528709ab8669d754991417bd24d3[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu May 28 00:03:31 2020 +0300
+
+    Create visual regression tests (#93)
+
+[33mcommit 2eaa03e24464f0d890160778aac28ea64aa7a7f6[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Mar 1 13:15:37 2020 +0200
+
+    Group stats per week (#86)
+
+[33mcommit 077624b384f2d884bad69f3941e0fc8a6e551082[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 7 03:13:15 2020 +0200
+
+    Fix stats route (#82)
+
+[33mcommit f284278cd656ae688d512112b5401a47bbcb525d[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 6 23:11:42 2020 +0200
+
+    Create stats page (#81)
+
+[33mcommit af209a02463912a514c3111cb8fdc8caad4a6c4f[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 6 03:24:39 2020 +0200
+
+    Start recording daily game counts (#80)
+
+[33mcommit 0648775344866255d89c676b7eecfd9ec7139d8d[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 5 21:50:23 2020 +0200
+
+    Start recording daily game counts (#79)
+
+[33mcommit c1916bbc00b6fa109119b8baaa87c8efa2344a83[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 5 21:31:40 2020 +0200
+
+    Redesign feedback button on large displays (#78)
+
+[33mcommit 6769544f42f6cdd2e34f3471d8fd9ff880738f84[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Oct 21 20:48:20 2019 +0300
+
+    Upgrade Cosmos
+
+[33mcommit c1de7ab23bafe5b20799141e513ed84720aa7e8f[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Oct 13 22:43:34 2019 +0300
+
+    Upgrade Cosmos
+
+[33mcommit 5205e1cfda698dabb64482c1f3bfef75cc76feeb[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Sep 9 23:17:19 2019 +0300
+
+    Create FUNDING.yml
+
+[33mcommit 2027ef1ef5113866b96db7f63c922f581ea9d7df[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Sep 9 23:16:22 2019 +0300
+
+    Upgrade Cosmos (#72)
+
+[33mcommit c7fe55ac99b385152cde109aa678054b97aa4f37[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Aug 27 11:09:33 2019 +0300
+
+    Bump eslint-utils from 1.3.1 to 1.4.2 (#70)
+    
+    Bumps [eslint-utils](https://github.com/mysticatea/eslint-utils) from 1.3.1 to 1.4.2.
+    - [Release notes](https://github.com/mysticatea/eslint-utils/releases)
+    - [Commits](https://github.com/mysticatea/eslint-utils/compare/v1.3.1...v1.4.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit a3255782c60db4994069092d87d89949009ed249[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Jul 27 16:52:00 2019 +0100
+
+    Upgrade to Cosmos Next (#64)
+
+[33mcommit 776be1a0cca0622e5ffc65b457945b4021091434[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jul 11 18:08:00 2019 +0300
+
+    Bump lodash.merge from 4.6.1 to 4.6.2 (#69)
+    
+    Bumps [lodash.merge](https://github.com/lodash/lodash) from 4.6.1 to 4.6.2.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/commits)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit daaeb6d142ca25ddbf2068dfad6f0836107cbc10[m
+Author: dependabot[bot] <dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jun 6 12:18:37 2019 +0300
+
+    Bump fstream from 1.0.11 to 1.0.12 (#65)
+    
+    Bumps [fstream](https://github.com/npm/fstream) from 1.0.11 to 1.0.12.
+    - [Release notes](https://github.com/npm/fstream/releases)
+    - [Commits](https://github.com/npm/fstream/compare/v1.0.11...v1.0.12)
+
+[33mcommit f0f52e286b6db1221b3f98efcc1e183ce9d240f7[m
+Author: dependabot[bot] <dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jun 6 12:18:17 2019 +0300
+
+    Bump js-yaml from 3.11.0 to 3.13.1 (#67)
+    
+    Bumps [js-yaml](https://github.com/nodeca/js-yaml) from 3.11.0 to 3.13.1.
+    - [Release notes](https://github.com/nodeca/js-yaml/releases)
+    - [Changelog](https://github.com/nodeca/js-yaml/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/nodeca/js-yaml/compare/3.11.0...3.13.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 6de02d8019e14c14e501b94d67c3d155bccc1218[m
+Author: dependabot[bot] <dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jun 6 12:17:58 2019 +0300
+
+    Bump handlebars from 4.0.11 to 4.1.2 (#68)
+    
+    Bumps [handlebars](https://github.com/wycats/handlebars.js) from 4.0.11 to 4.1.2.
+    - [Release notes](https://github.com/wycats/handlebars.js/releases)
+    - [Changelog](https://github.com/wycats/handlebars.js/blob/master/release-notes.md)
+    - [Commits](https://github.com/wycats/handlebars.js/compare/v4.0.11...v4.1.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 4014027ff38fcff64bf3197cc2f6356b6f66643d[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Dec 16 17:35:20 2018 +0200
+
+    Set client port back to 3000
+    
+    Using nginx reverse proxy
+
+[33mcommit 4074e8cbe746acb0987e13904c2ef27edb918425[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Dec 16 17:02:56 2018 +0200
+
+    Fix Firebase cert parsing
+
+[33mcommit 2ae63b716c07e70825f3d3e3afb12cba618c2e46[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Dec 16 15:45:02 2018 +0200
+
+    Change client port to 80
+
+[33mcommit 1761a478f17d9aeb7ac4805ab734c09814a9fe20[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Dec 16 15:39:11 2018 +0200
+
+    Split code per packages (#60)
+
+[33mcommit bd20ae34c9439300d8edd3057964a9980a41d845[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun May 13 22:57:12 2018 +0700
+
+    Upgrade Cosmos
+
+[33mcommit 4e3af616938c0b90fa7e0cf57e9b43eefa077d57[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed May 2 23:51:41 2018 +0700
+
+    Maintenance
+
+[33mcommit 684358f8d5fce5666c8b799ff2808ba7a1a87a6e[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Apr 30 23:18:27 2018 +0700
+
+    Ignore unknown errors (#59)
+
+[33mcommit de36c22d2c23cd0741763ca2933e54aa8f5b5e79[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Mar 21 23:41:18 2018 +0700
+
+    Update TODOs
+
+[33mcommit b3e25c40ea8a2d5c98dea88420123be7302ec3ff[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Mar 21 21:38:51 2018 +0700
+
+    Replace Object.assign (#55)
+
+[33mcommit d966137eb19486af9079d8f527ba29900cf8c184[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Mar 20 12:24:10 2018 +0700
+
+    Deny DROP action when player lost (#54)
+
+[33mcommit ae33159ef675f5e753bbb231e7ec76376920b619[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Mar 17 22:42:29 2018 +0700
+
+    Real time stats (#53)
+    
+    * Update TODOs
+    
+    * Create Stats component
+    
+    * Add stats to Dashboard
+    
+    * Update stats in real time from Firebase
+    
+    * Fix stats state transition
+    
+    * Increment stats.turns only when the next turn starts
+    
+    * Remove unused function
+    
+    * Upgrade to Cosmos 4.0 beta
+    
+    * Count lines in real time
+    
+    * Count control actions in real time
+    
+    * Count game time in real time
+    
+    * Fix precision of counting game time
+    
+    * Improve stats formatting
+    
+    * Flush counts alternatively to make the stats update more lively :)
+
+[33mcommit c7668282070d7943562c3150d2fbf2cc0852a838[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Mar 17 13:14:14 2018 +0700
+
+    Crash more elegantly (#52)
+    
+    * Crash more elegantly
+    
+    * Count play time of each player
+    
+    * Clear client game state when backfill fails
+    
+    * Update TODO
+
+[33mcommit d7176a324e88bc57ea99e8a505b67fde686a5bc8[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Mar 14 13:32:18 2018 +0700
+
+    Improve logging
+
+[33mcommit 38da9e6aecf4912ec7c5aa59050906c5cfc93a28[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Mar 14 13:31:21 2018 +0700
+
+    Improve logging
+
+[33mcommit f997fc31c63b98e6b0c3506a404d8029879f1271[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Mar 14 13:18:59 2018 +0700
+
+    Leave breadcrumbs for improving disconnect handling
+
+[33mcommit fb11875fd8694687d4e591e78dcb9dfe1d26e0ab[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Mar 14 12:04:41 2018 +0700
+
+    Sync game after player disconnect (#51)
+    
+    * Remove game after invalid backfill
+    
+    * Use new Rollbar tokens
+    
+    * Add extra logging
+    
+    * Throw on detached actions
+    
+    * Sync game after player disconnect
+    
+    * Remove dev code
+
+[33mcommit 21ebce75a8aa8d8b8872049b547ec53d01bb22e2[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Mar 12 18:06:32 2018 +0700
+
+    Truncate player name (#49)
+    
+    * Truncate player name
+    
+    * Update TODOs
+
+[33mcommit ab545a4f9c73a7fdcf6e6dd61283b261170f0618[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Mar 12 16:15:45 2018 +0700
+
+     Fix backfilling JOIN_GAME actions (#48)
+    
+    * Expose debug actions with game state and actions
+    
+    * Fix backfilling JOIN_GAME actions
+
+[33mcommit 487f918548f4f0e4f340f3dcd0b9ec4cd50f59fb[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Mar 12 02:24:35 2018 +0700
+
+    Gracefully invalidate session after re-deploy (#47)
+    
+    * Gracefully invalidate session after re-deploy
+    
+    * Stop backfill when no game exists
+
+[33mcommit 730fc112d677600331a72c6aa0d6579bcfff5687[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Mar 11 18:16:48 2018 +0700
+
+    Record stats using Firebase (#44)
+    
+    * Implement basic Firebase stats
+    
+    * Add Firebase secret
+    
+    * Update TODOs
+    
+    * Count turns
+    
+    * Count lines
+    
+    * Count action types
+    
+    * Count game time
+
+[33mcommit 82e9d52de6c7cfcc4c4274a1b925893fd64380c4[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Mar 10 12:05:27 2018 +0700
+
+    Update priorities
+
+[33mcommit ce30031c698bb865e36d5f7f5b27c581a9a39e25[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Mar 9 14:01:48 2018 +0700
+
+    Update TODOs
+
+[33mcommit 4e723c10f89895c3cc1d58ca90f3647c9df9746e[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Mar 9 08:26:10 2018 +0700
+
+    Fix validation of JOIN_GAME actions
+
+[33mcommit 558f9efbe3b104de4bebc0a600b25ba7b5985398[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Mar 9 01:50:55 2018 +0700
+
+    Add TravisCI badge
+
+[33mcommit 584b59cb24b17e809c86bf4277ebad655d199bac[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Mar 9 01:36:42 2018 +0700
+
+    Remove excess logging
+
+[33mcommit d45962c5466375a75b12814b625d8b8198798893[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Mar 9 01:16:13 2018 +0700
+
+    Disallow more than 2 players in a game
+
+[33mcommit f03e92f165f2a49bec831018246bec1eda695bd3[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Mar 9 00:55:35 2018 +0700
+
+    Stop logging common warning
+
+[33mcommit 97c9e55126a13dac7a31063f24a63608447f6b34[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Mar 9 00:55:11 2018 +0700
+
+    Enable source maps in production
+
+[33mcommit 7ec42499d470b49f7e327c2b5c7a07413d8998f1[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Mar 8 19:36:51 2018 +0700
+
+    Prevent fetching the same game twice
+
+[33mcommit 96479bfe910794f68f2d08f8f0943f3592c7df68[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Mar 8 18:24:33 2018 +0700
+
+    Remove screen overlay when watching game (#43)
+
+[33mcommit 68124972217afb129dccd71f19f03f1104faad1c[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Mar 8 18:13:19 2018 +0700
+
+    Run backfills in parallel for each game (#42)
+    
+    * Run backfills in parallel for each game
+    
+    * Reuse GameActionPayload
+    
+    * Remove backfillId
+    
+    * Improve clarity of game action types
+    
+    * Refactor multi backfill
+    
+    * Warn instead of logging error
+    
+    * Register pending backfill
+
+[33mcommit 0221b21ed5f58d0b3b91d004142e5b09f431e65c[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Mar 7 14:55:57 2018 +0700
+
+    Clear dashboard transitions independently (#41)
+    
+    * Clear dashboard transitions independently
+    
+    * Update dashboard state on any game action
+    
+    * Fix min header width
+
+[33mcommit b9088b80c2d01eb375502903df2a7262b406a5b5[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Mar 7 14:06:17 2018 +0700
+
+    Add custom title per page (#40)
+    
+    * Add custom title per page
+    
+    * Set title via props.children
+
+[33mcommit fdf00f51e27a3e638daedb3c01cb5f4ac1788996[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Mar 7 13:18:22 2018 +0700
+
+    Prevent applying detached actions (#39)
+    
+    * Stop saving detached actions
+    
+    * Log detached actions on server more thoroughly
+    
+    * Log detached actions on client more thoroughly
+    
+    * Fix typo
+    
+    * Fix action validation
+    
+    * Refactor backfill validation
+
+[33mcommit f71edc4afa2cab8723d518f436ec501d870c5dea[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Mar 7 02:18:26 2018 +0700
+
+    Embed Teko font in JS bundle (#38)
+
+[33mcommit 2cb91abf6af2ab70fa1d21577dbd10a427778b24[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Mar 6 16:22:26 2018 +0700
+
+    Add gif to README
+
+[33mcommit 18a875c35dbf91a3624a2e4b37b79bcffa39e45d[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Mar 5 23:10:51 2018 +0200
+
+    Replace Array.prototype.find (#37)
+    
+    * Add placeholder config for not minifying prod code
+    
+    * Replace Array.prototype.find
+    
+    * Log component errors
+
+[33mcommit 167c2043f4baf8e376e867e2bd467cf870632845[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Mar 6 01:42:34 2018 +0700
+
+    Point URL to https://flatris.space/
+
+[33mcommit aefa34a8c293a165818479cad0fee8b8d3461b09[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Mar 5 19:42:09 2018 +0200
+
+    Capture errors and logs using Rollbar
+
+[33mcommit 1b36f873f4e84f925b1819aaa23c8bdae09f14dd[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Mar 5 22:32:15 2018 +0700
+
+    Update README and description
+
+[33mcommit 796c777769fe002a5af03ab3b3532b6d5c4bcc65[m
+Merge: 839d075 6dcbef7
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Mar 5 17:18:49 2018 +0200
+
+    Merge pull request #35 from skidding/world-flatris
+    
+    Convert Flatris to multiplayer game
+
+[33mcommit 6dcbef70b53646ac6acf70e0e76a3d0b6ea7553e[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Mar 5 22:11:22 2018 +0700
+
+    Disable active Tetromino movement when game over (via mobile buttons)
+
+[33mcommit e7d13e9f747667f2a96b2ab6df5724f40e779d62[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Mar 5 16:55:43 2018 +0200
+
+    Add links
+
+[33mcommit 15a0a8182fb6cf4d63cb1773bc2722fb1f6326fe[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Mar 3 13:06:03 2018 +0200
+
+    Add react-cosmos-fetch-proxy
+
+[33mcommit 210ca68ebc623dde795a237615c3c384dc45ea16[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Mar 3 12:11:06 2018 +0200
+
+    Add game shell to Dashboard blank state
+
+[33mcommit 3e218532b43f22481370d86e8141ecdd2c598179[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Mar 2 23:40:02 2018 +0200
+
+    Improve onboarding
+
+[33mcommit 61bddc1d13cdea7790f458a72e98f33288e4f4e0[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Mar 2 20:21:33 2018 +0200
+
+    Create error pages
+
+[33mcommit 857cc0e6d9c025d6d1c77b8c6dcb075d903a20b3[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Mar 1 23:52:20 2018 +0200
+
+    Clean up intro screen
+
+[33mcommit f408479bd704eec3aed29aebedf36c395fc34f4e[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Mar 1 23:40:31 2018 +0200
+
+    Redesign onboarding
+
+[33mcommit cb05813c6d24e16244bf3190aadce51fa9f17129[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Mar 1 17:26:15 2018 +0200
+
+    Fix auth auto focus
+
+[33mcommit fcfa6350446785aa80f4d329ceb6001ca07fc8d8[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Mar 1 17:08:01 2018 +0200
+
+    Strip game effects on open
+
+[33mcommit eea1d03d0a909ca206b6696e056e2cc1301c98d2[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Mar 1 17:05:05 2018 +0200
+
+    Optimize active tetromino
+
+[33mcommit c42224c2451f0fee2fb29d2d81a4a21922024540[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Mar 1 16:56:59 2018 +0200
+
+    Update TODOs
+
+[33mcommit 4e87089c92ad454d50b0db7aeeddabc2b52c1450[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Mar 1 14:57:08 2018 +0200
+
+    Throttle key down events
+
+[33mcommit 6b60a486fb34af11caff44b89858c8150af2c6fd[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Mar 1 14:31:22 2018 +0200
+
+    Remove leftover style
+
+[33mcommit e68ee22fb57a87da253b90d9ebbaf478a97e9aa9[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Mar 1 14:27:40 2018 +0200
+
+    Minimize network communication: Don't send noop actions
+
+[33mcommit f8392c78ad8ff18fe61aca53893d36a7081a8052[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Mar 1 13:42:58 2018 +0200
+
+    Use own Dispatch type definition
+
+[33mcommit 852af33d1fc99c7a04d0309d593bb648dad6a3cd[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Mar 1 12:53:25 2018 +0200
+
+    Detect new games via keep-alive
+
+[33mcommit 85eef841f25b4dd3375335920d2b75162e36e433[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 28 20:19:55 2018 +0200
+
+    Fix Dashboard transitions
+
+[33mcommit 718976220d92e0f2b9ba2a8822e31b6c321aa13c[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 28 20:18:50 2018 +0200
+
+    fix: Reset losses when 2nd player joins
+
+[33mcommit 91f2f61e7e213795f6fb1068e653a6ee298bc8af[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 28 20:11:12 2018 +0200
+
+    Highlight already joined games
+
+[33mcommit 24f72385e8c65594036e3d56870807f0b9500afd[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 28 19:32:12 2018 +0200
+
+    Reuse test helper
+
+[33mcommit 39f5b053735ebcc6dae81674c5c69bcfa8d90f46[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 28 19:31:04 2018 +0200
+
+    Fade in fade out transition game previews
+
+[33mcommit be7f58fb7bf393a02dc72fa938089f36627c1c84[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 28 16:38:40 2018 +0200
+
+    Show gray logo for next tetromino in NewGame
+
+[33mcommit 82d36d999d68631ecc303da436bb83e64a76f65e[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 28 16:34:57 2018 +0200
+
+    Style Dashboard
+
+[33mcommit 2b3ba2efd64dbc27c61e1ace4808ea5c5f823ac0[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 28 15:41:55 2018 +0200
+
+    Add fixtures for NewGame component
+
+[33mcommit 074443df667e125157512241e77a556bddf3d67a[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 28 15:23:50 2018 +0200
+
+    Make games active again after new action
+
+[33mcommit f9b5fd4e3e89a8993a66a23d10fd275587c1df4c[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 28 15:11:06 2018 +0200
+
+    Remove unused code
+
+[33mcommit 46c5318ff943b7e240e9e94f776cd1677ebdae2a[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 28 15:06:15 2018 +0200
+
+     Remove inactive games
+
+[33mcommit 0fb1a35ec7bc705b9134135b817adbd4bdfdf28a[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Feb 27 15:31:49 2018 +0200
+
+    Add real-time dashboard
+
+[33mcommit 7926cf318c6dc2ad92c12f4b4c46098492185318[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 26 21:37:28 2018 +0200
+
+    Extract GamePreview component
+
+[33mcommit f671d87d2d41b2f792c2e4ae9824705c1d895b28[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 26 16:52:52 2018 +0200
+
+    Add pause & end game state for solo players with invite screen
+
+[33mcommit f89fcb42bd1dccdc93a31c07a09ddcaa3bf19321[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 26 15:47:48 2018 +0200
+
+    List all games in index page
+
+[33mcommit 001c8fa958223144b8af5dcfdc74f3e2c3a1ab94[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 26 13:06:55 2018 +0200
+
+    Replace /new page once game is created
+    
+    Allows users to dashboard via back button
+
+[33mcommit 3eb6f9988e091ab667dbc335e99a3aca767d51d0[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 26 12:39:26 2018 +0200
+
+    Don't call jsLoad action more than once
+
+[33mcommit bef7f91e1d97cb485f558c2e629ba99d7fca8c76[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 26 12:20:07 2018 +0200
+
+    Clean up reducers
+
+[33mcommit 3b683435bf8798586f9f73c9346471f55474dada[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 26 11:53:23 2018 +0200
+
+    Use createFixture to type fixtures consistently
+
+[33mcommit 1765d670f3eb9e458cbe0680c4755cc71af50d8b[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 26 11:50:12 2018 +0200
+
+    Move screen containers in own components dir
+
+[33mcommit 635a56e5c45948eeddf9597d9c5c065ef29dc34f[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 25 20:49:26 2018 +0200
+
+    Update TODOs
+
+[33mcommit 55ffd6a0f1385a50d40347b6574c69f22d7281d3[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 25 20:41:02 2018 +0200
+
+    Allow solo players to pause and resume
+
+[33mcommit f6f4f5cc311e977bd8360d445a29bff16d5206f9[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 25 20:33:36 2018 +0200
+
+    UX: Disable buttons while JS is loading
+
+[33mcommit 3e8a7cd8e7c8f0510dea8020d9cb095f34f9d6c7[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 25 19:16:13 2018 +0200
+
+    Read auth server-side on every page
+
+[33mcommit 6bef01304ce1b1961ffe6adfea106a05aa459ce8[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 25 15:11:50 2018 +0200
+
+    Add create game link to index page
+
+[33mcommit b163169982a43fdc1af21a63b55b2b2d90dc616b[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 25 14:45:05 2018 +0200
+
+    UX: Disable Auth buttons while performing IO
+
+[33mcommit 49b0e73f7f7c2aa3013cc3734bebbd212fe001bc[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 25 13:14:47 2018 +0200
+
+    Create separate index page
+
+[33mcommit 37e39b1e8252cc7a9af3492e4ac9afd4c3fe42f8[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 25 13:05:30 2018 +0200
+
+    Create noop loading page
+
+[33mcommit f1b1f3aac8a9ce3dbc4d48531981c5f3b39679a2[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 25 12:53:44 2018 +0200
+
+    Splt actions file
+
+[33mcommit 66456fa62bffa0f53b2e40db53ad94ff2f71ccb6[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 25 12:38:27 2018 +0200
+
+    Move SocketProvider & SocketConnect to components
+
+[33mcommit 4b8c8a5b5e966aff1832c01dcd65bf3cb612d6c7[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 25 12:32:30 2018 +0200
+
+    Disallow user to mutate state until it's up to date with server
+
+[33mcommit 5e2c4f54aa29e6d8daa24552ff72b4d801d6fce9[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 25 11:42:13 2018 +0200
+
+    Set valid actionId to JOIN_GAME events
+
+[33mcommit ea6fc35f4d0437498b32e9626914f4d961d0861f[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Feb 24 23:24:36 2018 +0200
+
+    Make fixtures more resilient
+
+[33mcommit 821003a4b688a6536cb25f631219556aa90cbc34[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Feb 24 23:17:37 2018 +0200
+
+    Ensure action consistency (run-time)
+
+[33mcommit 59a8d4c11451594eeb5369f9e1eece3937ab5304[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Feb 24 18:54:27 2018 +0200
+
+    Add backfill operation to ensure action consistency
+
+[33mcommit f11777847d172ac69658a281edd31f7aa07fead9[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Feb 20 15:14:28 2018 +0200
+
+    Improve flaky test (#27)
+
+[33mcommit 5f415f07c23af9ea93505d1cf20d65c7b4267650[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Feb 20 13:28:51 2018 +0200
+
+    Allow release of acceleration via mobile buttons
+
+[33mcommit f56ae7458d3f3aca74510863a59a039381ba249b[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Feb 20 13:23:28 2018 +0200
+
+    Improve flaky test
+
+[33mcommit ab5750a13af0806b4e9962c35a099833795955e5[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Feb 20 13:18:43 2018 +0200
+
+    Suggest a new game when other player is idle
+
+[33mcommit bc7a8a6983c9e5e8a7279fa7b9fb05fb39de0103[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Feb 20 13:02:45 2018 +0200
+
+    Change order of portrait controls
+
+[33mcommit 01f6512f7c91ea2f5606d6ad82a8cff6b6c786f8[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 19 23:42:20 2018 +0200
+
+    Fix button size
+
+[33mcommit be2b4b8a2b4b013fe8e8afff9b57135634efa3be[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 19 23:36:10 2018 +0200
+
+    Don't try to read window.location on the server
+
+[33mcommit b5e2eeb70900a75b57336566a0ddf26d3dc280c9[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 19 15:29:37 2018 +0200
+
+    Fix snapshot
+
+[33mcommit bcd6d4cb4ff49a025a22334deb7b2165a80447e6[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 19 15:26:23 2018 +0200
+
+    Show share button when clicking on "2P insert coin"
+
+[33mcommit 091f446212191c0f31274bedec5937c01b200f39[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 19 14:54:34 2018 +0200
+
+    Add copy to clipboard btn to "Invite or play" screen
+
+[33mcommit cd2da36b4949ae63825c81b77d3beda28f8c61d5[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Feb 17 18:27:29 2018 +0200
+
+    Don't request user auth when game is full (allow guests to watch)
+
+[33mcommit 43737fe15872d39d780456647b975d6aaefc1326[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Feb 17 18:11:17 2018 +0200
+
+    Show onboarding after user registers
+
+[33mcommit 046ab4a0bcd20da9b5d42b6e983aab3d14402c4d[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Feb 17 17:51:30 2018 +0200
+
+    Show side controls on landscape mobile
+
+[33mcommit ba97b44bb2955e12d50a1a35ab10f79a4084005d[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Feb 17 14:48:29 2018 +0200
+
+    Refactor game container CSS
+
+[33mcommit 1f0c63fea2812b22226f394fd50a88ab792994ce[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 16 18:09:20 2018 +0200
+
+    Extract portrait controls out of FlatrisGame
+
+[33mcommit 2437cbe1b8c806a06a8ae2132fb29cb1bfe29437[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 16 12:54:20 2018 +0200
+
+    Disable controls when user isn't playing
+
+[33mcommit d87c24a052472686f22c75d5a5e312b91b871467[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 16 12:47:19 2018 +0200
+
+    Encourage players to play "best x out of y"
+
+[33mcommit 318f8bb58e31fe33af981974abb86061678999cc[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 16 12:34:26 2018 +0200
+
+    Remove "WON" player status with beter messaging
+
+[33mcommit 51ecc6b7b0bfc167df2f5cfab54dae09ca89683e[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 16 10:04:48 2018 +0200
+
+    Slow down fixture to avoid flakiness
+
+[33mcommit 93bdf5c0c49d7fb1f5d0e9fce7aaea35f2062951[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 15 19:34:08 2018 +0200
+
+    Only fade in screen text
+
+[33mcommit 6a26583b5bdc68790a07bf524d1a3b0740b7d71b[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 15 19:24:29 2018 +0200
+
+    Add WON green badge under player name
+
+[33mcommit 5ec0a12ef7a0040ab168bd77ed65fa10a45a06d7[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 15 19:09:28 2018 +0200
+
+    Generate new Tetromino random sequence per game turn
+
+[33mcommit 12cf10c1895514064c4db06bce1bde1f022e8d67[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 15 13:55:47 2018 +0200
+
+    Update TODO
+
+[33mcommit d03205db57b964e7f8b4f45ea4323c6a115222c7[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 15 12:55:24 2018 +0200
+
+    Fade in game screens
+
+[33mcommit f31dffc9c363ee215bf7c5b16a7dc1b7a461668a[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 15 12:42:10 2018 +0200
+
+    Remove intentional delay
+
+[33mcommit 69dc99de7f13ecf4fc7ede56bcaebd405adaba87[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 15 12:36:41 2018 +0200
+
+    Disable in-game auth after entering 1st time
+
+[33mcommit 8463c0317692d28d731592ed1c1409b23e7cf90a[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 15 12:26:46 2018 +0200
+
+    Improve onboarding
+
+[33mcommit 98c9c4ec226a44ed7882b530c1ca15ff8513d1d4[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 15 12:15:33 2018 +0200
+
+    Improve server logs
+
+[33mcommit d34f87b5ea5c869d78a0af0117e7597aa76a73d8[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 14 22:29:40 2018 +0200
+
+    Remove hover effect from controls
+
+[33mcommit f7be74c45c9d4bc3ce3151532856870f05a96328[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 14 22:09:04 2018 +0200
+
+    Language
+
+[33mcommit 752ffed76ce6b651116fb4452c397081d4b6bee2[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 14 22:05:40 2018 +0200
+
+    Add onboarding screen
+
+[33mcommit 797a9d54592aa562e94b12c37056389738b48edc[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 14 20:39:50 2018 +0200
+
+    Allow users to just watch
+
+[33mcommit e25a01294e746a8c97d127b05b6db0fcc259bf3d[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 14 19:28:55 2018 +0200
+
+    Add more fixtures
+
+[33mcommit e79b642afedadbd265c9f281b5e0f9fbdacd2964[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 14 19:25:13 2018 +0200
+
+    Add ability to PING other player
+
+[33mcommit 7e3796fba5347f40ae69e8bd5d3d6d3aafc4ea0b[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 14 18:03:22 2018 +0200
+
+    Add global score
+
+[33mcommit c686ca147710cd7de94f10dc7d2272732b7f1c57[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 14 17:48:37 2018 +0200
+
+    Update TODOs
+
+[33mcommit bbf70fc5e7a4ac755d1cb6323136759758dfdfcf[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 14 17:45:48 2018 +0200
+
+    Make "2P insert coin" clickable
+
+[33mcommit abfdfa7fc1614fbe0842eba088daea4fb6ca2d52[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 14 17:22:12 2018 +0200
+
+    Show lines instead of "wins" for single player
+
+[33mcommit 282c6a787272b3e3f0a85203e6e3c6e3ed6589c5[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 14 17:00:50 2018 +0200
+
+    Humanize numbers over 1K
+
+[33mcommit 72ac9af6b23da3c75bf5b862872d04256b28021a[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 14 14:11:14 2018 +0200
+
+    Style GamePanel (partial)
+
+[33mcommit 75e747d0672c715534f814bae986e8aa9ca3a8ee[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 14 12:24:31 2018 +0200
+
+    Improve jest setup
+
+[33mcommit a27bb581e039cd1b2d5c4d7aded496b646d1c5fa[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 14 09:25:01 2018 +0200
+
+    Differentiate between P1/P2 and Cur/Other Player
+
+[33mcommit 9e12445f03d1003a43a359a1609ab2496834cf23[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Feb 13 23:50:04 2018 +0200
+
+    Start typing fixtures via createFixture
+
+[33mcommit 4ef2cbb653c58cb86c43c66ec9e1a027915fb860[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Feb 6 17:25:48 2018 +0200
+
+    Reuse old public assets
+
+[33mcommit 92afb2e5e59f59af4d69f39288c7939883cc45cd[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Feb 6 13:47:09 2018 +0200
+
+    Tweak GameContainer proxy
+
+[33mcommit 5da1df77c65ef4594b8cc41c63724d8e76b1d548[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Feb 6 12:54:04 2018 +0200
+
+    Don't allow users to submit empty names
+
+[33mcommit 587bff3fdcf1cb55a6c21ce8d27c4773881ae167[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 5 23:04:23 2018 +0200
+
+    Restrict name length
+
+[33mcommit 0f1dc1e5d19117d6e4b152a41b3e12ddff7a87eb[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 5 20:39:01 2018 +0200
+
+    Style "Auth" screen when creating game
+
+[33mcommit 859977780d46812fce4133fe3e9b2bcc5b97eab0[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 5 16:28:14 2018 +0200
+
+    Style "Auth" screen when joining
+
+[33mcommit 052ac39331482284bfdabe106bf2a39dc160f608[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 2 20:40:55 2018 +0200
+
+    Drop all the way on mobile
+
+[33mcommit b2c26096fab86b4af601052476c815b77b570c16[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 2 20:12:19 2018 +0200
+
+    Remove logo for now
+
+[33mcommit 2bee911575b7737226e2f96aa43c8edb25ddc45d[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 2 20:10:41 2018 +0200
+
+    Drop Tetromino on SPACE key
+
+[33mcommit 0a573df7af650f9f60e54076bbf0b446c52d73df[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 2 19:59:22 2018 +0200
+
+    Hide controls on desktop mode (landscape orientation)
+
+[33mcommit b950ed9dabc193fab22cd72b2c31e6e2fc4190f4[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 1 23:36:57 2018 +0200
+
+    Add TODOs
+
+[33mcommit 19a6c0350f58fc8e5e1e0698f0af56f3860486c1[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 1 23:28:40 2018 +0200
+
+    Clean up coditional code
+
+[33mcommit c4d873408a784a2c2f57ad0e9cbef9b0ae59159f[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 1 23:25:17 2018 +0200
+
+    Allow players to restart once game is over
+
+[33mcommit 3be7dd178a66ac3fbfb2dcf4854c2a49cd4a7854[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 1 22:36:21 2018 +0200
+
+    Create "Game over" screen
+
+[33mcommit a7d72531d022c9162dcc68b3d66e3ac5186e7881[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 1 22:06:45 2018 +0200
+
+    Move GAME OVER state to player
+
+[33mcommit d8efbb5f0114c401639280d99e96caa20bdd3840[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 1 21:41:18 2018 +0200
+
+    Fix screen styles
+
+[33mcommit 046c406f541ff65898592a3241d81ec5d33d336e[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 1 21:37:22 2018 +0200
+
+    Remove screen duplication
+
+[33mcommit 89a6705bc65c1545d4e392822354afed55f148ef[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 1 19:36:58 2018 +0200
+
+    Create game screens
+
+[33mcommit 3fece1150d47c0aef13ec4ac2976fd11ff751087[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 1 14:43:37 2018 +0200
+
+    Upgrade Cosmos to use props.children in fixtures
+
+[33mcommit 70985883b3675597323a1ad57bc2eeea1882454f[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 1 12:40:21 2018 +0200
+
+    Mark TODOs
+
+[33mcommit a984bf441512f85abccda16f9a7998e75c03fad6[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 1 12:36:56 2018 +0200
+
+    Create "Invite or play" screen
+
+[33mcommit 77e01c611ea086c651ea954764dc6ff2972b433a[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 1 12:19:12 2018 +0200
+
+    Make viewport container proxy configurable
+
+[33mcommit fbf017037b4758cff4427112dfc4c2b97cac02b7[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Feb 1 12:16:57 2018 +0200
+
+    Clean up repo
+
+[33mcommit b8dd5d3e591b91c28679f94ee8e1324df5cff193[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Jan 31 22:57:03 2018 +0200
+
+    Add fixtures for all components
+
+[33mcommit 8339700a72d06d24f8d4c9e6df8972677ac97c4a[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Jan 31 20:39:08 2018 +0200
+
+    Fix "READY" shortcut
+
+[33mcommit ed7103e4b8f903374383e2be7f2c8fb7b910ff7c[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Jan 31 20:34:24 2018 +0200
+
+    Continue game after hard refresh
+
+[33mcommit b5cd71723e9953fa68f7eb31e76274276f3d7b18[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Jan 31 20:02:47 2018 +0200
+
+    Update TODOs
+
+[33mcommit e6657fa6188aa09b65849bb3b273ccfa70580304[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Jan 31 19:59:11 2018 +0200
+
+    Fix snapshots
+
+[33mcommit c60a1b5094210539f12f6aa59946753fb56af447[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Jan 31 19:51:32 2018 +0200
+
+    Grayscale loading state until JS is loaded
+
+[33mcommit 623ab4c2b0d9c8bbffe63b56373c8b4709c6ab12[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Jan 31 19:40:18 2018 +0200
+
+    Create socket game rooms
+
+[33mcommit c9ff175ce11f282659e24f6619ad5b73548c7ef3[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Jan 31 14:10:13 2018 +0200
+
+    Remove 2nd file nesting
+
+[33mcommit 2aa74033658ea8d8bf05094a96d9ac562a807b39[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Jan 30 22:21:41 2018 +0200
+
+    Remove unused import
+
+[33mcommit ff293738956d890ed03c97f8764cd160a1faf8dc[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Jan 30 22:20:39 2018 +0200
+
+    Update snapshots and TODOs
+
+[33mcommit 351df804770b6d6f2c4216f413889e6cb8a344a7[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Jan 30 22:14:28 2018 +0200
+
+    Read user from session when creating game
+
+[33mcommit 5aba32d8c4960229e7f1b5045b05bc84d994a6c0[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Jan 30 21:59:06 2018 +0200
+
+    Fix: Return user instead of session on GET /auth
+
+[33mcommit c48504565230865b7abaf6b697ab936c6f523ae5[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Jan 30 21:54:15 2018 +0200
+
+    Remove unnecessary type casting
+
+[33mcommit 90cdb239331e5e4abb76a7343935a3f483adb552[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Jan 30 21:49:46 2018 +0200
+
+    Turn sessionId, userId & gameId numbers into hashes
+
+[33mcommit 28354d3c39d01fc4e23789098fef068aac241364[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Jan 30 20:18:37 2018 +0200
+
+    Add dynamic route for game page
+
+[33mcommit d52b427d235bf319ad64ca854138dac28ca46252[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Jan 30 19:51:27 2018 +0200
+
+    Fix layout styles
+    
+    They needed to be set outside <Head>
+
+[33mcommit 094474962638d09e5db060447b5c17a0db0c187e[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Jan 30 19:42:50 2018 +0200
+
+    Fix prod baseUrl
+
+[33mcommit fd70378da1a1ab2779678d87e9d127451a107222[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Jan 30 19:38:27 2018 +0200
+
+    Use correct body-parser API
+
+[33mcommit bec46ea0176d4513382024a7c30d47c60cdad775[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Jan 30 19:36:25 2018 +0200
+
+    Include status code to 404 pages
+
+[33mcommit d7ccd8f2f8f878dab1811799e065864bf5caa794[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Jan 30 15:09:43 2018 +0200
+
+    Create server-side user sessions and more
+
+[33mcommit 88602142bc31b48a30bb73855db6132de9cf4b5c[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Jan 29 15:21:30 2018 +0200
+
+    Handle wrong game ID with 404
+
+[33mcommit 8bc6900e0c93735c3072d0010371f822d48b44a0[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Jan 26 21:36:16 2018 +0200
+
+    Mark old functionality left for posterity
+
+[33mcommit 3f3a89fde6d726928e01e652335cb646731659bd[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Jan 26 20:51:39 2018 +0200
+
+    Upgrade deps
+
+[33mcommit 82cfaf4010fe94cdebf66680b0b229fee9e769c8[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Jan 26 17:47:22 2018 +0200
+
+    Clean up starClean up server scriptst scripts
+
+[33mcommit b0ae0322c7ca8bec76aff406938992841dbc1e45[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Jan 26 15:13:56 2018 +0200
+
+    Add hidden keyboard shortcut for stopping game
+
+[33mcommit 85362c8b870e174b7881f600ea0896a12315096c[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Jan 26 15:11:53 2018 +0200
+
+    Make enemy grid visible on Firefox
+
+[33mcommit 5d9404a7db87e10f316ba1fd3ab9fce0f90f8a8e[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Jan 26 15:08:28 2018 +0200
+
+    Fix Quake effect
+
+[33mcommit efa75abf29d5666c514a5aebe4fd20e9d5bd1183[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Jan 26 15:06:53 2018 +0200
+
+    Update test snapshots
+
+[33mcommit 0c3ffbd3b0f5ae93bd9fc3dbd8a57f83f1ac40a1[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Jan 26 15:04:40 2018 +0200
+
+    Add Flash and Quake effects
+
+[33mcommit 17e611fef6021540650c2145ec07b7cc6c65f078[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Jan 26 10:16:04 2018 +0200
+
+    Simplify how enemy blocks are applied
+
+[33mcommit c5c80f462b363dc02cca311e04bd7b2dfe8ed6f8[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Jan 25 20:23:53 2018 +0200
+
+    Re: Fix concomitant line clearing between players
+
+[33mcommit c5930cba1633a5599fd64f356d20e17f00ececa8[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Jan 25 17:08:00 2018 +0200
+
+    Fix typo
+
+[33mcommit 24e0889074f718c80f58e74e449b2c6e5b4f5ba4[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Jan 25 16:43:11 2018 +0200
+
+    Fix concomitant line clearing between players
+
+[33mcommit 23bf7a9bfea3fe83a6913faf04b791ab4522ca70[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Jan 24 17:48:06 2018 +0200
+
+    Transition cleared and received enemy blocks
+
+[33mcommit 0bc8747bd4bee7ab0665074b0dd7d733571b808b[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Jan 24 14:13:41 2018 +0200
+
+    Bring old back FlatrisGame fixtures
+
+[33mcommit fb1941ccac4b44fcbdbd6b2ea5ddf67e8bc55121[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Jan 23 14:36:36 2018 +0200
+
+    Highlight current user in GamePanel
+
+[33mcommit e89e81f5adb7a0f61781aecdd9b24736d23d56a5[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Jan 23 14:33:44 2018 +0200
+
+    Add blocks to other player when clearing lines
+
+[33mcommit 4dddee41ca82b9b9f58c4683e97b69e4c7d2f9b1[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Jan 22 21:02:05 2018 +0200
+
+    Remove redundant fn
+
+[33mcommit ec0da8b11ff98ae259d191a42dfadacec725911b[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Jan 22 21:01:14 2018 +0200
+
+    Simplify state management
+
+[33mcommit 32ae8df6aa08305e9321e089d5b3ce28aad9d822[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Jan 22 20:37:15 2018 +0200
+
+    Simplify actions
+
+[33mcommit f7710058be7cf95493166882a3722c098838dcb2[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Jan 22 19:26:09 2018 +0200
+
+    Mock SocketProvider in Cosmos
+
+[33mcommit 0b0b185ca66861f7db97942e0729ae57dd8b209c[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Jan 22 18:57:53 2018 +0200
+
+    Create websocket server with new/join page MVP
+
+[33mcommit 4aa4e499f0dfa38f947358c6a618d01596f263c3[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Jan 22 18:54:39 2018 +0200
+
+    Always subscribe to sockets on mount
+
+[33mcommit c1db78b7cc8b893d0c97c4a4c8693e0e88301459[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Jan 22 18:26:11 2018 +0200
+
+    Allow callers to chain broadcasted actions
+
+[33mcommit d512da7c64f610691e6ab40681224ae5f0c9b04f[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Jan 22 18:23:11 2018 +0200
+
+    Improve types
+
+[33mcommit 66b85f0a09f00581dffd0be7f6c1c9efef503dbd[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Jan 22 17:12:56 2018 +0200
+
+    Use latest Node on Travis
+
+[33mcommit 1d7c48573534398293c07eb3138e2183be462041[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Jan 22 17:03:04 2018 +0200
+
+    Don't broadcast stopGame action
+
+[33mcommit b8b21e4c974b68ee206ab3d09882ebc7d98c91d0[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Jan 22 16:54:33 2018 +0200
+
+    Upgrade Jest
+
+[33mcommit c396f358e947c78e9e07d4ee9bacd10e085d4c89[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Jan 22 16:08:48 2018 +0200
+
+    Create abstraction for broadcasting Redux actions via websockets
+
+[33mcommit 38be7a31f779b10a8c8cb22554b98528e69cfdb6[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Jan 21 12:44:42 2018 +0200
+
+    Update snapshots
+
+[33mcommit a2fd37db934ca6db3d514781495643209fc8c9ed[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Jan 21 12:42:50 2018 +0200
+
+    Add 2nd player
+
+[33mcommit 87741c96e81595f6f34a478d46f2211788302c47[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Jan 20 16:36:43 2018 +0200
+
+    Update fixtures and snapshots
+
+[33mcommit cce920f77aa634b687da146f5ce3bb7e28702321[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Jan 20 16:28:24 2018 +0200
+
+    Redesign actions
+
+[33mcommit 22864a9b1eac543b22944f580a68280234f78c6d[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Jan 20 16:18:19 2018 +0200
+
+    Start documenting multiplayer mechanics
+
+[33mcommit ac768e9f5d0374f941d1813b11c61b74e098c405[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Jan 20 16:13:41 2018 +0200
+
+    Add Flow to Layout comp
+
+[33mcommit e4e6d4f2fe5ed0238fda66cb266f2cf41da81d1d[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Jan 17 22:41:40 2018 +0200
+
+    PIVOT: Turn collaborative Tetris into competitive deathmatch
+
+[33mcommit ea8a7db8693bc4bf4ed6e3dfba5b0a45f118e9b1[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Dec 18 16:15:33 2017 +0100
+
+    Update snapshots and TODOs
+
+[33mcommit 49d2c0e83c68e8f10509ac5a33edc6feba1ab209[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Dec 18 16:11:24 2017 +0100
+
+    Redesign game panel and make more room for users
+
+[33mcommit f775abd394315371ac95d614f3bbd46b95905842[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Dec 18 15:12:58 2017 +0100
+
+    Implement state for watching with menu closed
+
+[33mcommit 7170d815dc5cbb0d1804b840630871a241c5729b[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Dec 18 15:10:12 2017 +0100
+
+    Don't allow solo players to watch
+
+[33mcommit a23fa5df94da89a22c5349ef624db978e69856dc[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Dec 18 02:39:44 2017 +0100
+
+    Design new game state (with Flow types)
+
+[33mcommit 077aaa06c3a859713b05c92a8eb46e45c2021a16[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Dec 16 18:52:03 2017 +0100
+
+    Design game UI screens
+
+[33mcommit 9acc3171cc999dd089096ca11d55a5d5ad8d3488[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Dec 16 14:54:11 2017 +0100
+
+    Update snapshots
+
+[33mcommit 92923691ed04d8a125000996fef05a43c437c1f9[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Dec 16 14:47:41 2017 +0100
+
+    Add pre compiled media queries for game page
+
+[33mcommit 1d1e20545a32feb036a44ea9a4ed60fba6335bfc[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Dec 15 22:37:06 2017 +0100
+
+    Remove dynamic layout
+
+[33mcommit 3a4edbbeb917b206da4d057cc91a262aecbdc4ac[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Dec 14 12:56:01 2017 +0100
+
+    Add script for generic Grid media queries
+
+[33mcommit 7cfad03646791408e3447c0d7bcf2353cc926685[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Dec 13 02:40:49 2017 +0100
+
+    Add Preloader component
+
+[33mcommit 6219165fd09c13bd684f4e9934bdb2cec3036075[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Dec 13 02:07:35 2017 +0100
+
+    Rename
+
+[33mcommit 60c84c0673a02be961a87cc952aa513c5e470554[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Dec 13 02:04:04 2017 +0100
+
+    Add some TODOs
+
+[33mcommit 48a394d4b2255680d68acdfc7618b503bc1f69a3[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Dec 13 01:55:39 2017 +0100
+
+    Migrate to Next.js
+
+[33mcommit 5cb94d26632646615c3a50fa9222d863cc80bf07[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Dec 10 15:43:25 2017 +0100
+
+    Remove duplicate script
+
+[33mcommit 5a795fb03b306963749b598b409be013ad7d7ecb[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Dec 10 15:40:09 2017 +0100
+
+    Upgrade deps
+
+[33mcommit a7ab850709e173c10382f76012fec7e8a984ddfd[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Dec 10 15:31:01 2017 +0100
+
+    Upgrade Cosmos
+
+[33mcommit 839d0759866441ebf6968abbad2c5cf9cfebee08[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Nov 21 12:51:18 2017 +0100
+
+    Upgrade Cosmos
+
+[33mcommit cc6963e9ebdebef3116170b54986d72fb638a142[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Nov 13 15:18:24 2017 +0200
+
+    Upgrade Cosmos
+
+[33mcommit b7771c1d213a931a7a7cce163b374a478cdc0f8c[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Nov 5 18:25:41 2017 +0200
+
+    Upgrade Cosmos
+
+[33mcommit 2aec7d399c2e1894188890ea3a1fdba4aabb46c4[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Oct 24 20:01:21 2017 +0200
+
+    Upgrade Cosmos
+
+[33mcommit d12c5ba749e80b12707d6a4c4e63b361713c17f9[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Oct 14 13:06:39 2017 +0200
+
+    Add .prettierignore
+
+[33mcommit bb79c7486b8ea10f42bb870c068b0012053fdbb9[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Oct 6 13:24:27 2017 +0200
+
+    Upgrade to React 16
+
+[33mcommit 892db8ee56fdee13e2995df82031d457ba33a522[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Sep 24 11:31:08 2017 +0200
+
+    Upgrade Cosmos
+
+[33mcommit 27c08f55c204c78bf71fb2e631adb3663822d3b2[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Sep 14 15:05:54 2017 +0300
+
+    Upgrade deps
+
+[33mcommit 8cf47c65fc65a92bc4afd0aa9b1d235c7e02de1e[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Sep 8 13:55:44 2017 +0200
+
+    Upgrade fixture format (#25)
+    
+    No more normalize-props-proxy
+
+[33mcommit 98aba887a93772921d82c8ec9522fd6e11861bb3[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Sep 8 13:20:36 2017 +0200
+
+    Upgrade Cosmos
+
+[33mcommit ebe7e242fcc71f767067aead03c8a4f47da869e6[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Sep 7 10:24:23 2017 +0200
+
+    Upgrade Cosmos
+
+[33mcommit 9269af0fb746918bf73a1e049792eb3aa3343943[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Aug 29 13:02:31 2017 +0200
+
+    Upgrade deps
+
+[33mcommit a53f51f76cd3086405d0750b74f7fd54c24448ff[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Aug 7 09:17:04 2017 +0200
+
+    Prettify
+
+[33mcommit 469fc2bdc264cc42b4d54c1b7c0026ffae5c3035[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Aug 7 09:08:39 2017 +0200
+
+    Upgrade deps
+
+[33mcommit 6a451ae7313c389af982bc3d88666d70670ab51c[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Jul 12 14:19:49 2017 +0200
+
+    Remove .babelrc (#24)
+
+[33mcommit 6cfca7334fe87088ab1eed8f554a9a96268bc303[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Jun 28 13:20:48 2017 +0300
+
+    Upgrade Cosmos
+
+[33mcommit 11e4912a12b513ac8b7b4b4f3ecbac73c35f2d83[m
+Author: Tyler McGinnis <tylermcginnis33@gmail.com>
+Date:   Mon May 15 22:23:18 2017 -0600
+
+    Upgrade to React 15.5+ and fix PropTypes (#23)
+
+[33mcommit f2d5298f9528f442bf066d72f4738c7fe3f46e66[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon May 1 22:48:56 2017 +0300
+
+    Upgrade Cosmos
+
+[33mcommit 5fb7ee56b417ff85dd98785a5f214f7761dab96f[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Mar 25 23:12:21 2017 +0200
+
+    Stretch root element
+    
+    Useful for loading leaf components in playground
+
+[33mcommit d9583f3e64b0af6738494a543be079cabae05db2[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Mar 25 23:11:31 2017 +0200
+
+    Fix initial state
+
+[33mcommit b402f4e90eb780d52d11f14c988abf41f1cb7a75[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Mar 25 21:50:44 2017 +0200
+
+    Upgrade React Cosmos
+
+[33mcommit a8eb95284ef72653d1f2ac8694152fa9eccc39e4[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Mar 12 17:31:52 2017 +0200
+
+    Add license to package.json
+
+[33mcommit 31e2ddf1b276d29c2597225eaa5a5fd8d968782c[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Mar 12 17:30:58 2017 +0200
+
+    Create LICENSE
+
+[33mcommit 357f4dcb89edc2d199d89bb820085dc5379c5c11[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Mar 10 17:11:42 2017 +0100
+
+    Use CRA webpack config with Cosmos (#21)
+    
+    * Use CRA webpack config with Cosmos
+    
+    * Remove space
+    
+    * Use unresolved path to web pack config
+
+[33mcommit c8bf7f302b4df7e088d79b58a2bf96c1b85f1068[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Mar 3 14:52:41 2017 +0200
+
+    Fix Redux fixtures
+
+[33mcommit d5d72ea9c98affb0ebd5ad9a6b54ca3f879c2b3c[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 26 18:47:04 2017 +0200
+
+    Redux layout (#20)
+    
+    * Convert layout to Redux reducer
+    
+    * Fix state management in action
+    
+    * Adapt fixtures to Redux layout
+    
+    * Increase font granularity
+    
+    * Move layout to own package
+
+[33mcommit 5565a1e6953c1ee2b2b6c42c9655d3739d96eaad[m
+Author: Ben Thomas <benhjt@users.noreply.github.com>
+Date:   Thu Feb 23 19:47:59 2017 +0000
+
+    remove jquery as a dependency (#19)
+
+[33mcommit 9c0122838b5d51cc04dc45d4fa9554b205dc402c[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 22 14:36:24 2017 +0200
+
+    Add link to elm-flatris
+
+[33mcommit 668e10514f5d8c3a2dbd881c62921c4bacf5bc0a[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 22 12:57:28 2017 +0200
+
+    Prevent negative paddings
+
+[33mcommit 71b75b4142cb8b31a52885c8d6517e50b628bc56[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 22 11:53:16 2017 +0200
+
+    Fix snapshots
+
+[33mcommit 6dfb906c568771f94619646d3b30d02e2851c505[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 22 11:49:25 2017 +0200
+
+    Mention offline support in InfoPanel
+
+[33mcommit 97c72f5bba65dc8dd078e23167d1610fb32d1a4a[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Feb 22 11:36:24 2017 +0200
+
+    Update README.md
+
+[33mcommit 96ce811ae5f77f026de5727eee55079d893c6204[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Tue Feb 21 11:21:41 2017 +0200
+
+    Add screen recording to README
+
+[33mcommit def6525da5ec5e592f2d0f5bf4c1296a3bd0091f[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 20 22:47:15 2017 +0200
+
+    Fix typo
+
+[33mcommit 75b9d2d6f85bf7be80a37c5215366445e3089499[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 20 22:42:16 2017 +0200
+
+    More space
+
+[33mcommit 391807451c892bd6abf85ab34b07a05f47b0594b[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 20 22:41:21 2017 +0200
+
+    Update info (#18)
+    
+    * Update README and info panel
+    
+    * Add more details to info panel
+    
+    * Update snapshots
+    
+    * Update build
+
+[33mcommit f2470a4483c6543222ac03f6476dde461ff7577e[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 20 21:03:32 2017 +0200
+
+    Preloader (#17)
+    
+    * Use performance.now when possible
+    
+    * Improve contrast
+    
+    * Create preloader
+    
+    * Add theme_color
+    
+    * Cache state on every store change
+    
+    * Prettify
+    
+    * Update build
+
+[33mcommit b30133947cf0838d558f1cb11b6ff36f10dcdc93[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 20 15:40:35 2017 +0200
+
+    Fix service-worker path
+
+[33mcommit adcea11999d39fb066fb22f8bd7849d36bd25e87[m
+Merge: 178eabd 5fa800e
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 20 15:32:35 2017 +0200
+
+    Merge pull request #16 from skidding/offline
+    
+    Offline
+
+[33mcommit 5fa800ebbfd6cf76bee3b625b1a28ca4b43c9d1f[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 20 15:25:01 2017 +0200
+
+    Update build for gh-pages
+
+[33mcommit 258384aeaab42b87a30070190a9478fb2c51c6c6[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 20 15:24:37 2017 +0200
+
+    Cache static assets for offline
+
+[33mcommit faf61acc1527ec9640b8efbfa8c261059a44c46b[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 20 12:45:48 2017 +0200
+
+    Fix reading of width
+
+[33mcommit 178eabda583e5d18e38d78a84424fbfbc4675760[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 19 22:24:29 2017 +0200
+
+    Use prettier SVG icons for buttons
+
+[33mcommit c682e486452f3360491cae7766e9241992317cbb[m
+Merge: e7bdfc2 6119c3b
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 19 21:35:20 2017 +0200
+
+    Merge pull request #15 from skidding/webmanifest
+
+[33mcommit 6119c3b0d19d199edc04209dc9f353cfd5731cad[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 19 21:26:30 2017 +0200
+
+    Add build to docs dir
+
+[33mcommit 154ebca22122fdf0443b787aa2bd9edcb4e26836[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 19 21:20:26 2017 +0200
+
+    Disable selecting text on buttons
+
+[33mcommit 135676ce491489a60e2a689715b399b0b737838f[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 19 21:05:31 2017 +0200
+
+    Update snapshots
+
+[33mcommit 96adb933199496cea8766307844e6de0700eb7da[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 19 21:04:55 2017 +0200
+
+    Show state alongside in landscape mode
+
+[33mcommit b0d7a5c2a466de18a36a6e9b7841c5ece6906451[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 19 17:57:43 2017 +0200
+
+    Update snapshots
+
+[33mcommit b6ac5a96e17d0f5d4d22c67fe337466450c47fb3[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 19 17:57:33 2017 +0200
+
+    Prettify
+
+[33mcommit 6f5d707ff34e9fa1142cb36e43fbbc62f41eff5c[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 19 17:56:43 2017 +0200
+
+    Fake CI to always run all tests
+
+[33mcommit 7b46700c6a81cf1097c85823bb808d8145535e0e[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 19 17:56:22 2017 +0200
+
+    Only add extra wrapper when necessary
+
+[33mcommit fd8bbc7e172b9330116f902f5130db0de8f7edb5[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 19 17:50:03 2017 +0200
+
+    Integrate layout into Cosmos
+
+[33mcommit ef0cccb6dfbd28b79c4bc0975ffdd74e946d7f7a[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 19 17:42:15 2017 +0200
+
+    Make layout fluid
+
+[33mcommit 3d290e6be80df4f8499a9a7bffbca5cfab11a33a[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun Feb 19 11:50:22 2017 +0200
+
+    Mirror logo
+
+[33mcommit ca0424152c2c8f69f5506261cd65c2ebb5f9382e[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Feb 18 17:14:31 2017 +0200
+
+    Add web manifesto
+
+[33mcommit e7bdfc20f5985459b54b7f7e1b134441d4f37ee9[m
+Merge: ec176ef a6b419c
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Feb 18 10:52:13 2017 +0200
+
+    Merge pull request #13 from skidding/12-update
+    
+    Bring project up to date
+
+[33mcommit a6b419c0a023235811b1e98dc33af2c383c669b1[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Feb 18 10:36:42 2017 +0200
+
+    Fix state prettifier
+
+[33mcommit d0f0fb604dc92fa3c055f04bab41b4829734c904[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Feb 18 10:32:33 2017 +0200
+
+    Tetrimino > Tetromino
+
+[33mcommit ce29d66edba1a3ef62cd6055357061bf6c087c38[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Feb 18 10:15:04 2017 +0200
+
+    Upgrade snapshots
+
+[33mcommit 9aa8b491d0d545d1e528e3fb213e0060f9da60f5[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Feb 18 10:14:07 2017 +0200
+
+    Get rid of SASS
+
+[33mcommit d276e89ef96e06238fc51e0d55d9238466d09f5d[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 17 20:52:49 2017 +0200
+
+    Nest cosmos test
+
+[33mcommit 9117779783a6c9aa47682ce64dc0342ed4ea981d[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 17 20:51:33 2017 +0200
+
+    No point in formatting along with tests
+
+[33mcommit ac42a3399eea9cc1d0532ac00413f97c0e3c1bae[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 17 20:46:35 2017 +0200
+
+    Prettify more files
+
+[33mcommit a3a5efb415b0dddc8248a87c34697a99a420ca0a[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 17 20:42:56 2017 +0200
+
+    Add Travis conf
+
+[33mcommit fa4d334b779c7df092b4ab00ca35ffd6ba2b9dbd[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 17 20:42:52 2017 +0200
+
+    Make code prettier
+
+[33mcommit bcc252b18fe62a0163935bad9cd46176734c7481[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 17 20:27:38 2017 +0200
+
+    Create Jest snapshots via react-cosmos
+
+[33mcommit 1c4b3a979862b85c0d029bcccf3fc6042cbe392b[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 17 20:24:20 2017 +0200
+
+    Integrate Cosmos
+
+[33mcommit 8fab9e1ac6ebcf9a9c50dd2c4dd90de8d50f6f2a[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 17 19:51:28 2017 +0200
+
+    Add back state preview
+
+[33mcommit 8e7f197655ff14504678d5305c6f9a4ac5c515b8[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Feb 17 17:24:46 2017 +0200
+
+    Redux codebase, create-react-app and sass
+
+[33mcommit ec176ef46e26369aeac7325186b0a332c658768e[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Oct 24 15:47:18 2016 +0300
+
+    Add link to Redux version of Flatris
+
+[33mcommit 0d890fb8e29b09ae3df21e8730562609a25c079c[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Aug 11 14:32:29 2016 +0300
+
+    Make game faster
+
+[33mcommit 2b49ea5e5a073067e2e12374e2394f112966805d[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Aug 11 14:23:30 2016 +0300
+
+    Upgrade to React 0.14
+
+[33mcommit 3e6ea3b435cbb40d3594a81696c85d1a5768ec57[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Nov 15 01:44:58 2015 +0200
+
+    Consistent quotes
+
+[33mcommit a295e8b5c208b06caa228b6aacbb3713b2f9115b[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Nov 15 01:41:17 2015 +0200
+
+    Integrate ESLint
+
+[33mcommit cb7f507f20be55e291b1d3d20c3fea01008bc019[m
+Merge: a89cd82 75a02ee
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Nov 11 23:21:43 2015 +0200
+
+    Merge pull request #10 from skidding/9-cosmos-boilerplate
+    
+    Integrate component via boilerplate #9
+
+[33mcommit 75a02ee9bf389528fc0d1bb8f06581dff6a70154[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Nov 11 23:10:59 2015 +0200
+
+    Bump version #9
+
+[33mcommit 1fdcb2c71ec969e39b388eb02ae3b8cdc6888edc[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Nov 11 23:08:51 2015 +0200
+
+    Whitelist routes #9
+
+[33mcommit d4730fa812417c419273e76e14001c094be620fd[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Nov 11 23:05:16 2015 +0200
+
+    Update Cosmos files #9
+
+[33mcommit 0e0fda808f0b3d4d7a6c283da2d338f7b2bf6dd8[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Nov 11 00:34:46 2015 +0200
+
+    Move babelrc in webpack config #9
+
+[33mcommit 584366294f435e35e3c0cf679cf53146f99468d6[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Nov 11 00:34:08 2015 +0200
+
+    Ignore vendor CSS #9
+
+[33mcommit 361098be80b1e5113f672e44863c6306dca57a9e[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Mon Nov 9 01:43:02 2015 +0200
+
+    Integrate component via boilerplate #9
+
+[33mcommit a89cd823d39fde31abcf3cdc63e98e342f767b03[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Mon Jun 1 16:41:39 2015 +0300
+
+    Upgrade Cosmos and add config for custom components path
+
+[33mcommit cbc33743159ecf200d8186ef1d60266b68bbed0a[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun May 17 18:28:45 2015 +0300
+
+    Upgrade Cosmos to 0.6.3
+
+[33mcommit 74b0dd078be6ba691a3034ee3439a544ca847db1[m
+Merge: 835ced2 b1bade9
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sun May 10 02:31:24 2015 +0300
+
+    Merge pull request #8 from skidding/8-remove-duplicated-state
+    
+    Remove duplicated state
+
+[33mcommit b1bade977620df4ff2dabe8dbbd8ab8f5cb93419[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun May 10 02:27:48 2015 +0300
+
+    Imperative operations should be last #8
+
+[33mcommit 3ba5fd7d1c71e46a090270e78119b13b0251469f[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun May 10 02:21:11 2015 +0300
+
+    Remove snapshot from local storage #8
+
+[33mcommit 474eebd416ffbe342d69b8528f945514f47ddc90[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat May 9 23:40:26 2015 +0300
+
+    Fix state prettification #8
+
+[33mcommit 07455677469ce5d4d70ad93d4312323be9656ef0[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat May 9 23:26:46 2015 +0300
+
+    Update fixtures to new state #8
+
+[33mcommit fe7e26d92b50d5b4584749fa77bb5a9a3120b9e5[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat May 9 23:06:32 2015 +0300
+
+    Remove state from WellGrid #8
+
+[33mcommit c387f2d4aef429b2785a43136d0fc00108560311[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat May 9 22:18:25 2015 +0300
+
+    Move stateless function to lib #8
+
+[33mcommit ad9a639260b44ef1e328595578bfd93935d1c77b[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat May 9 22:12:31 2015 +0300
+
+    Refresh local storage key #8
+    
+    Previous state is no longer compatible
+
+[33mcommit 853292d890af45ce9176f3ac459b3ddfcbaba704[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat May 9 22:12:12 2015 +0300
+
+    Remove state from Tetrimino #8
+
+[33mcommit 489c4c59bf62046306b61809dd1687c706463cc3[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat May 9 21:33:06 2015 +0300
+
+    Move grid rotating logic to stateless lib #8
+
+[33mcommit e1d5ed24b5213042934d54df85d01dcc90df17a0[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat May 9 21:32:22 2015 +0300
+
+    Upgrade Cosmos #8
+
+[33mcommit 835ced2944091751de35d0f20153f7e3191af0d9[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Thu Apr 30 23:42:01 2015 +0300
+
+    Upgrade Cosmos
+
+[33mcommit fc20381b3141408485240d0d9514366a1d03ab54[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat Apr 25 20:40:31 2015 +0300
+
+    Add Cosmos to dev dependencies
+
+[33mcommit 8366294aba82c578490cbce94edb98b918539686[m
+Merge: af90b92 6d7fb54
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Apr 24 03:41:48 2015 +0300
+
+    Merge pull request #7 from skidding/7-well-grid-render
+    
+    Only render well grid when block count increases
+
+[33mcommit 6d7fb5422ddf4e417df7c875cecfbe50133e1a94[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Fri Apr 24 03:40:28 2015 +0300
+
+    Update animation loop lib #7
+
+[33mcommit 40967e1ab4fe6e42819fd4d802b343d5df4aa189[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Apr 23 19:37:09 2015 +0300
+
+    Only render well grid when block count increases #7
+
+[33mcommit af90b92f7fa2106b44995dd0f63f4a790680b37b[m
+Merge: 7ae517a 1b05f45
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Apr 22 23:03:37 2015 +0300
+
+    Merge pull request #6 from skidding/6-cosmos-0.6.x
+    
+    Upgrade to Cosmos 0.6.x
+
+[33mcommit 1b05f45c0a992d1b7d255878ea7099fb7a1809df[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Apr 22 22:58:18 2015 +0300
+
+    Update serialize copy #6
+
+[33mcommit d4672bd32515cceb45a5ba104253f07604a027b9[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Apr 22 22:56:00 2015 +0300
+
+    Update links to components #6
+
+[33mcommit 8ad2cad49d75c46e2cc495e450f67a5948da49d9[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Apr 22 22:52:53 2015 +0300
+
+    Clean up styles #6
+
+[33mcommit 5cc46c3f1cc803bd97ff0374d6f39d20f555d89a[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Apr 22 22:49:30 2015 +0300
+
+    Update Cosmos copy #6
+
+[33mcommit 907e31a1f22c4a6eb214dcc691283f6978b1bb20[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Apr 22 22:01:45 2015 +0300
+
+    Make sure next Tetrimino stays in sync #6
+
+[33mcommit b3942b3bb07251b2c1392d05bdf56a0aa304b9c5[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Apr 22 21:52:03 2015 +0300
+
+    Prefix private method #6
+
+[33mcommit c395b2c4d71b9cd80b754eeb37434ec6a58bd465[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Apr 22 21:51:48 2015 +0300
+
+    Typo #6
+
+[33mcommit 8abe318904e9a8e30f801f4a05117186b802fc81[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Apr 22 20:28:18 2015 +0300
+
+    Completely encapsulate styles using less mixing inheritance #6
+
+[33mcommit da2c1e273b5753b415aa49e0609861580621b99d[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Apr 22 19:58:05 2015 +0300
+
+    Move components styles next to classes #6
+
+[33mcommit 20a0da6a888145b84d090aecf709a784fe306623[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Wed Apr 22 19:47:25 2015 +0300
+
+    Expose serialize function alongside the root component #6
+
+[33mcommit f16befa508b90e203d5bc9e68e8b07e3abec9a5e[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Apr 22 01:51:07 2015 +0300
+
+    Upgrade component tree #6
+
+[33mcommit edda9f19043076b0cb89a18419d6cdadb8ea0d6d[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Apr 22 01:50:54 2015 +0300
+
+    Add fixtures per component #6
+
+[33mcommit d1ca01917a72550d51015920736eabcdf562308c[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Tue Apr 21 01:09:38 2015 +0300
+
+    Move component styles to dedicated folder #6
+
+[33mcommit 1be678c194b2a040ca062735e88de1fbc8ad3355[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Tue Apr 21 00:50:49 2015 +0300
+
+    Add some space #6
+
+[33mcommit 4e05376c842d2d8a2e642f9247028790cbb7f815[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Tue Apr 21 00:44:57 2015 +0300
+
+    Replace deprecated functions #6
+
+[33mcommit b9e23ce1d458bbb3a09214fdcfcca472ec4ef47f[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Tue Apr 21 00:40:15 2015 +0300
+
+    Fix indentation #6
+
+[33mcommit 9dc1592a82fe578d638fcdb8fe7b966f63243aee[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Tue Apr 21 00:34:31 2015 +0300
+
+    Converting code to ES6 and CommonJS modules #6
+
+[33mcommit 17640bcd0f5c4a109b79c7550a4bb08b3e51f5cd[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Tue Apr 21 00:27:45 2015 +0300
+
+    Rename component files to camel case #6
+
+[33mcommit c0e4344278d34a39edecf248136f5c73b5a25a2a[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Tue Apr 21 00:20:37 2015 +0300
+
+    Add linting and webpack config #6
+
+[33mcommit d3b117bdc17c16d846e253bc4ed8e3ecbff478e4[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Tue Apr 21 00:17:34 2015 +0300
+
+    Remove unwanted files #6
+    
+    Moving towards webpack and npm
+
+[33mcommit 7ae517a6c214633b4a6047ed41100f923951f68f[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat Mar 14 22:32:13 2015 +0200
+
+    Update Flatris to Cosmos 0.5.0
+
+[33mcommit b3bc6ec6f1c32471a3fe3d79761f38566b077918[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 15 01:44:00 2015 -0500
+
+    Update Cosmos
+
+[33mcommit 50315e8cd3cbf168bdf44d1c8dacfb925e3d115c[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat Feb 14 00:48:23 2015 -0500
+
+    Use separate AnimationLoop package
+
+[33mcommit e927e047788e7bded242d45beb187c593c19febc[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Sat Feb 14 03:00:13 2015 +0200
+
+    Add direct link to Component Playground
+
+[33mcommit a2e5f146ca67c3899b93e2356494d3a2f1eb7974[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Fri Feb 13 19:55:58 2015 -0500
+
+    Update ComponentPlayground
+
+[33mcommit 66aae0e859178446e0156713742ec6b27b3ee24d[m
+Merge: 342b0c9 ba6863c
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 9 07:15:27 2015 +0200
+
+    Merge pull request #5 from skidding/5-update-description
+    
+    Improve presentation
+
+[33mcommit ba6863caf714a96fb4499833e01ab5a73c1e898d[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Mon Feb 9 00:12:31 2015 -0500
+
+    Add Flatris image in README #5
+
+[33mcommit 45ff902bfd24f2d0abeedfdae70b1de5bc6b1249[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Mon Feb 9 00:03:05 2015 -0500
+
+    Add Flatris fixture #5
+
+[33mcommit 7fe26c4f0eab6933ec9f459eded9b7ecd8331dc4[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 8 23:15:30 2015 -0500
+
+    Add fixture for GamePanel and InfoPanel #5
+
+[33mcommit b184239261b12aea5a021ea4041d99a3fff95f60[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 8 23:15:08 2015 -0500
+
+    Move InfoPanel and GamePanel styles in separate files #5
+
+[33mcommit 31b2ef5d99f7da659b67bfe79f6375f61f5c409a[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 8 22:54:25 2015 -0500
+
+    Make GitHub link large #5
+
+[33mcommit 96d9b78aa4eb662b757c279c256b17f72cf84d5c[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 8 18:32:11 2015 -0500
+
+    Add Github fork ribbon #5
+
+[33mcommit edb44fbc5b32eca3d6bfe288e2220ff774d32d34[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 8 18:24:59 2015 -0500
+
+    Separate lists #5
+
+[33mcommit e2f5553bcbed6405f108a26c882f27d40c6f16ec[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 8 18:21:48 2015 -0500
+
+    Add links to component code and Component Playground #5
+
+[33mcommit 11a715323a1f989d0b254af27628a82f15df4f1e[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 8 18:13:05 2015 -0500
+
+    Add state preview and state persistor components #5
+
+[33mcommit 82ae9ed38e2a0d52214da9d299bf4a11ea44e51a[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 8 18:11:36 2015 -0500
+
+    Add component description in README #5
+
+[33mcommit 390fb8a11bb3314b6f84eb3a1d0f18cc9b7ccb4a[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 8 18:00:56 2015 -0500
+
+    Add design credits #5
+
+[33mcommit df989986948b48854069df0f3024914cdf790d9b[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 8 18:00:49 2015 -0500
+
+    Keep line length consistent #5
+
+[33mcommit 342b0c9f0594f8e5856522143af47eb76f41bb20[m
+Merge: 5dfe548 4bcff35
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Mon Feb 9 00:36:43 2015 +0200
+
+    Merge pull request #4 from skidding/4-integrate-component-playground
+    
+    Integrate Cosmos' Component Playground
+
+[33mcommit 4bcff35fa5063ca40830bc23c187ae75896877cd[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 8 17:28:44 2015 -0500
+
+    Add component playground with fixtures #4
+
+[33mcommit 89b5562e98b92d3e1c9dbac6585afc6370521a20[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 8 17:26:40 2015 -0500
+
+    Upgrade Cosmos #4
+
+[33mcommit f4d484ebbb4de4d2a8e90df545f2724e4bbb6c26[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 8 17:25:03 2015 -0500
+
+    Add unique key to Tetrimino #4
+    
+    Since Cosmos only injects state on mounting now
+
+[33mcommit b443b92d4883cbf6899ed0778ba9525042c380e8[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 8 17:24:40 2015 -0500
+
+    Fix typo #4
+
+[33mcommit 1dea8f5656785de2d357ce0522388f1ae63def17[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Feb 8 17:24:35 2015 -0500
+
+    Upgrade Cosmos #4
+
+[33mcommit e575b1b46ed9322193032c8ad5aac38018640572[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Fri Feb 6 09:59:33 2015 +0200
+
+    Add Cosmos Component Playground patch #4
+
+[33mcommit bb456230902d8f6ff7fe87a1709cc32788cc5f10[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Feb 4 02:36:39 2015 +0200
+
+    Upgrade to Cosmos 0.4.0-initial #4
+
+[33mcommit 5c50296a5c8483a1da84dd1f54c4cadf9ebb59af[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat Jan 31 18:19:08 2015 +0200
+
+    Upgrade Cosmos #4
+
+[33mcommit 5a0b1e443aa6f41878d33b091547ecdf149f6f9b[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Jan 28 22:09:58 2015 +0200
+
+    Upgrade to React with addons
+
+[33mcommit f4e327e9e0da4f4225c3ba969c1f32e27c3a06b4[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Jan 28 22:09:29 2015 +0200
+
+    Remove globals, JS & CSS
+
+[33mcommit 5dfe548383ca419044b29209c5699b3b1c6c86b3[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Jan 11 12:48:22 2015 +0200
+
+    Reorder methods and add spacing between them
+
+[33mcommit c4ad1d817a34179dab6d975dbbabc34ffe0c6a25[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Jan 11 12:33:48 2015 +0200
+
+    Remove Cosmos calls
+
+[33mcommit dcdf7222445d009083cf134806bb09220a49a6a7[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat Jan 10 22:08:17 2015 +0200
+
+    Upgrade Cosmos and React
+
+[33mcommit 367205c731cc66a456a9d5503811d785a099bbba[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat Jun 28 11:09:16 2014 +0300
+
+    Fix positioning of next I Tetrimino
+
+[33mcommit bfb87bcd450414ff3579d16012ed1835480be179[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Fri Jun 27 01:14:21 2014 +0300
+
+    Adjust paddings #1
+
+[33mcommit 5d709bc5bfada7872ce0b3288f8a1f3a45b88702[m
+Merge: 9ca5561 d642855
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Fri Jun 27 01:02:00 2014 +0300
+
+    Merge pull request #2 from skidding/1-show-state
+    
+    1 show state
+
+[33mcommit d6428558d90b3922e7e018883900906f99687fe0[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Fri Jun 27 00:57:24 2014 +0300
+
+    Add state snapshot under Flatris UI #1
+
+[33mcommit 3ee3623798ae2beb42a0d2a768b08870d055e800[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Fri Jun 27 00:54:02 2014 +0300
+
+    Remove InfoPanel from state #1
+    
+    It doesn’t have any state
+
+[33mcommit 76732d7ea7303fc3d8baaee6c0ec8d58bafa00a6[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Fri Jun 27 00:33:05 2014 +0300
+
+    Simplify Flatris positioning #1
+
+[33mcommit 9ca5561ce8ae322fae9ab9e36c5ee60506a041c8[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat Jun 21 14:23:48 2014 +0300
+
+    Remove scale directives from viewport
+
+[33mcommit 1b42319086fcb33f3216e17661f0e5763334d320[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sat Jun 21 14:19:12 2014 +0300
+
+    Disable user zooming on Android devices
+    
+    http://stackoverflow.com/questions/7773865/how-to-disable-web-page-zoomi
+    ng-scaling-on-android
+
+[33mcommit 4fbea548113644c08663aeebce3e87a834fb127e[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Jun 19 01:42:27 2014 +0300
+
+    Spacing
+
+[33mcommit 245cf2514038f8f94906c1ba5aa5995201457255[m
+Author: Ovidiu Cherecheș <skidding@gmail.com>
+Date:   Thu Jun 19 01:40:58 2014 +0300
+
+    Brief project
+
+[33mcommit 9950ed025c0932cc748047129106081ea8ac1e63[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Thu Jun 19 01:17:41 2014 +0300
+
+    Add GitHub ribbon
+
+[33mcommit 27ebccf6b60fb30b3a9642e03adfcd5f3ac793e2[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Thu Jun 19 01:08:36 2014 +0300
+
+    Ensure body takes up entire viewport space
+
+[33mcommit 7b7ab48fca27ff384f97e1c25819fcf1b5b25abe[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Thu Jun 19 01:08:22 2014 +0300
+
+    Add information panel in between game states
+
+[33mcommit 677d5cda0e512b23a53d2d0ed3729ac950cf6c8a[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Jun 18 23:32:15 2014 +0300
+
+    Add buttons and touch capabilities
+
+[33mcommit 9a08c8bb927136e6ad111b87391bdd86d469eb08[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Wed Jun 18 22:20:40 2014 +0300
+
+    Isolate well grid to minimize rendering
+    
+    Increase performance by ~400% :)
+
+[33mcommit 685c710a502b2aca464bcd185e29df5ddfc3e5f7[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Tue Jun 17 01:15:23 2014 +0300
+
+    Center Flatris in viewport
+
+[33mcommit f6caff923a353ceac7f2d4275b2fd33e9e8e73cf[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Tue Jun 17 01:03:52 2014 +0300
+
+    Make game full screen on mobile
+
+[33mcommit cab1c97b077f70257d03b8a6d40f0d4f06b829f5[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Tue Jun 17 00:57:16 2014 +0300
+
+    Fix square positioning
+
+[33mcommit e0fafa81b85ccc1f2cd7615eab0851980f654210[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Jun 15 14:12:21 2014 +0300
+
+    Persist state with local storage
+
+[33mcommit 6845179ca8c8257d4fbfe302ff56e66c784375d2[m
+Author: Ovidiu Chereches <skidding@gmail.com>
+Date:   Sun Jun 15 14:01:23 2014 +0300
+
+    Add original Flatris files from the Cosmos repo
